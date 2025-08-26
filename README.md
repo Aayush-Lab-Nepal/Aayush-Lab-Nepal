@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there 👋, I'm Aayush Parajuli  
 
-<!--
-**Aayush-Lab-Nepal/Aayush-Lab-Nepal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Full-Stack Developer | Python • React • Node.js**  
 
-Here are some ideas to get you started:
+- 🔹 Skilled in building modern web applications, APIs, and scalable solutions  
+- 🔹 Primary stack: **Python**, **React**, **Node.js**  
+- 🔹 Secondary: **Java** (for backend & OOP-based projects)  
+- 🔹 Passionate about clean code, problem-solving, and continuous learning  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack  
+- **Frontend:** React, Tailwind CSS, HTML, CSS, JavaScript  
+- **Backend:** Node.js, Express.js, Python (Flask/Django)  
+- **Database:** MySQL, MongoDB  
+- **Other:** Git, REST APIs, Java  
+
+---
+
+## 📊 GitHub Stats  
+![Aayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=AayushParajuli&show_icons=true&theme=radical)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AayushParajuli&layout=compact&theme=radical)  
+
+---
+
+## 🌐 Connect With Me  
+- 📧 Email: your-email@example.com  
+- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
