@@ -25,5 +25,5 @@
 ---
 
 ## 🌐 Connect With Me  
-- 📧 Email: parajuliaayush123@gmail.com  
+- 📧 Email: parajuliaayush125@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
